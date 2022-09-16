@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LOR SYSTEM "lor.dtd">
+<LOR>
+    <Consent>Yes</Consent>
+    <Prefix>Dr</Prefix>
+    <FirstName>Senthilkumar</FirstName>
+    <LastName>T</LastName>
+    <Organization>Amrita Vishwa Vidyapeetham</Organization>
+    <Title>Associate Professor</Title>
+    <RelationshipToStudent>Associate Professor</RelationshipToStudent>
+    <Telephone>1234567890</Telephone>
+    <Email>thisisanemail@gmail.com</Email>
+    <AcademicPerformance>Upper 1 to 2%</AcademicPerformance>
+    <IntellectualAbility>Upper 10%</IntellectualAbility>
+    <AbilityToExpress>Upper 1 to 2%</AbilityToExpress>
+    <MotivationForProposedField>Upper 1 to 2%</MotivationForProposedField>
+    <Admit>Yes</Admit>
+    <Signature>Senthilkumar T</Signature>
+</LOR>

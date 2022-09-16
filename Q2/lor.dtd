@@ -1,0 +1,19 @@
+<!DOCTYPE note
+[
+<!ELEMENT LOR (Consent,Prefix,FirstName,LastName,Organization,Title,RelationshipToStudent,Telephone,Email,AcademicPerformance,IntellectualAbility,AbilityToExpress,MotivationForProposedField,Admit)>
+<!ELEMENT Consent (#PCDATA)>
+<!ELEMENT Prefix (#PCDATA)>
+<!ELEMENT FirstName (#PCDATA)>
+<!ELEMENT LastName (#PCDATA)>
+<!ELEMENT Organization (#PCDATA)>
+<!ELEMENT Title (#PCDATA)>
+<!ELEMENT RelationshipToStudent (#PCDATA)>
+<!ELEMENT Telephone (#PCDATA)>
+<!ELEMENT Email (#PCDATA)>
+<!ELEMENT AcademicPerformance (#PCDATA)>
+<!ELEMENT IntellectualAbility (#PCDATA)>
+<!ELEMENT AbilityToExpress (#PCDATA)>
+<!ELEMENT MotivationForProposedField (#PCDATA)>
+<!ELEMENT Admit (#PCDATA)>
+<!ELEMENT Signature (#PCDATA)>
+]>
